@@ -1,7 +1,7 @@
 {
   "name": "slatezero",
   "productId": "0x5100",
-  "vendorId": "0x414D",
+  "vendorId": "0x414E",
   "matrix": {
     "rows": 5,
     "cols": 16
